@@ -33,6 +33,5 @@ Este repositório contém a solução para a atividade de gerenciamento de produ
 ## Como Executar
 1. Certifique-se de ter Dart instalado.
 2. Clone o repositório e abra no VSCode.
-3. Execute o seguinte comando no terminal:
-   - `dart run`
+3. Execute o seguinte comando no terminal: `dart run`
 
